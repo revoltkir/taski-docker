@@ -1,0 +1,26 @@
+# Виртуальные окружения
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+
+# Файлы среды
+.env
+
+# Логи
+*.log
+
+# База данных (например, SQLite)
+*.sqlite3

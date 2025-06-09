@@ -1,0 +1,24 @@
+# Environments
+backend/.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Игнорировать файлы кэша Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Игнорировать локальные настройки IDE
+.vscode/
+.idea/
+
+# Игнорировать файлы с логами и временные файлы
+*.log
+*.tmp
+
+# Игнорировать файлы данных
+*.sqlite3
